@@ -1,0 +1,5 @@
+* Thread example:
+  Construct 6 threads. Each time, only one thread can grab print-statement to print its number.
+  For example, 1st thread print '1'. 2nd thread print '2'.
+
+
